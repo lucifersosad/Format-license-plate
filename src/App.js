@@ -57,7 +57,7 @@ function App() {
       <div style={{padding:"0 15px"}}>
         <h2>Format lisense number by Lucifer</h2>
         <div>
-          Nhập biển số:
+          Nhập biển số máy:
         </div>
         <span>
           <input id="licenseNum" type="text"/>
