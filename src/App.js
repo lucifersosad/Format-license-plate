@@ -52,7 +52,7 @@ function App() {
 
 setInterval(function() {
   fetchData(); 
-}, 15 * 60 * 1000);
+}, 1 * 60 * 1000);
 
 function fetchData() {
   fetch("https://lucifer-dep-trai-d0efa5f23a33.herokuapp.com/helloworld")
